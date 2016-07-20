@@ -1,0 +1,2 @@
+<h1>Home Page</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rhoncus sem ac turpis sollicitudin porta. Duis venenatis ultrices ligula, molestie ornare neque fringilla at. Donec ultrices hendrerit odio quis suscipit. Aliquam et mauris quis odio porta euismod. Ut convallis aliquet laoreet. Morbi semper dictum metus, sit amet ullamcorper velit semper in. In hac habitasse platea dictumst.</p>
